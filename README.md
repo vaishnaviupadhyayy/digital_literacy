@@ -42,10 +42,9 @@ The project is divided into five tasks, each focusing on a different aspect of d
 https://forms.gle/TY5GnN5Sta63Gies5
  
 SCREENSHOTS:
-
-<img width="1464" height="781" alt="Screenshot 2026-03-28 at 7 06 16 PM" src="https://github.com/user-attachments/assets/2a90df71-bc54-4608-90a9-06d70edc6e06" />
-<img width="1469" height="785" alt="Screenshot 2026-03-28 at 7 06 26 PM" src="https://github.com/user-attachments/assets/62cd1896-92da-46ce-b239-6b4e403037ce" />
-<img width="1456" height="338" alt="Screenshot 2026-03-28 at 7 12 44 PM" src="https://github.com/user-attachments/assets/a42bd171-7ea7-48ef-a605-05b16ef31a73" />
+<img width="1464" height="781" alt="Google-form1" src="https://github.com/user-attachments/assets/a8ab0b07-8aae-4134-a4b4-4901549f6f8a" />
+<img width="1469" height="785" alt="Google-form2" src="https://github.com/user-attachments/assets/e9c51199-6e7d-43a1-a75e-5971bc33892b" />
+<img width="1456" height="338" alt="response" src="https://github.com/user-attachments/assets/becd5367-6785-4efb-a789-5f4b36c5302a" />
 
 ---
 
