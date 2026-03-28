@@ -35,7 +35,7 @@ The project is divided into five tasks, each focusing on a different aspect of d
 
 ### Task 1 – Infographic
 
-[Add your Canva/Slides link here]
+https://www.canva.com/design/DAHFQBsEzJc/C3mY50pJTrlhJkHBGGYTrw/edit?ui=e30&referrer=https%3A%2F%2Fwww.canva.com%2F
 
 ### Task 3 – Google Form(Quiz)
 
