@@ -4,8 +4,8 @@
 2. **Check URLs carefully:** Only enter login or payment information on official websites or apps. Look for https:// and also check if it is secure.  
 3. **Enable two factor authentication:** Secure all accounts with it for an extra layer of protection.  
 4. **Use strong and unique passwords:** Avoid reusing passwords across accounts. Consider a password manager to keep them safe.  
-5. **Never share OTPs/ UPI PINs:** Your bank or UPI app will never ask for these over call, email, social media.  # Financial Safety  
-6. **Avoid public Wi-Fi for transactions:** Don’t use public networks for banking or UPI payments. Use mobile data or a VPN if needed.  # Financial Safety  
+5. **Never share OTPs/ UPI PINs:** Your bank or UPI app will never ask for these over call, email, social media. 
+6. **Avoid public Wi-Fi for transactions:** Don’t use public networks for banking or UPI payments. Use mobile data or a VPN if needed.
 7. **Keep devices updated:** Regularly update your phone, laptop, and apps to patch security vulnerabilities.  
 8. **Be mindful on social media:** Avoid sharing personal details like phone numbers, addresses, or any personal information publicly.  
 9. **Report suspicious activity:** If you suspect fraud or cybercrime, report it immediately to the [National Cyber Crime Portal](https://cybercrime.gov.in/) or call **Helpline 1930**.
