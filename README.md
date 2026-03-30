@@ -77,7 +77,7 @@ I prepared a case study on cybercrime and created a checklist to help students s
 * Canva (for infographic design)
 * GitHub (for project submission)
 * LinkedIn (for professional profile)
-* HackerRank / CodeChef (for coding practice)
+* HackerRank (for coding practice)
 * Google Forms (for quiz creation)
 
 ---
